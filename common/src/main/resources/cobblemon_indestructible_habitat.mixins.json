@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_21",
+  "package": "dev.matthiesen.cobblemon_indestructible_habitat.common.mixins",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "HabitatBlockMixin"
+  ]
+}
