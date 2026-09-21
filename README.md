@@ -4,16 +4,13 @@
   <img src="https://mods.matthiesen.dev/badges/cobblemon.svg" alt="Cobblemon">
 </div>
 
-Simple Server-side mode to make Cobblemon's Habitat Blocks Indestructible outside Creative Mode. This is useful for servers that want to prevent players from destroying Habitat Blocks.
+Cobblemon Indestructible Habitat, is a super simple server-side mod to make Cobblemon's Habitat Blocks Indestructible outside Creative Mode. 
+This is useful for servers that want to prevent players from destroying Habitat Blocks. For instance, in resource worlds used for structure generation.
 
 ## Requirements
 
 - [Cobblemon](https://modrinth.com/mod/cobblemon)
 - [Fabric API](https://modrinth.com/mod/fabric-api) (Fabric only)
-
-## Docs
-
-Documentation for this mod can be found at [mods.matthiesen.dev](https://mods.matthiesen.dev/TODO/)
 
 ## Version Compatibility
 
