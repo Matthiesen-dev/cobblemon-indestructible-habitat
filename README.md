@@ -16,7 +16,7 @@ This is useful for servers that want to prevent players from destroying Habitat 
 
 | Minecraft Version | Cobblemon Version | Mod Version |
 |-------------------|-------------------|-------------|
-| 1.21.1            | 1.8.0             | 1.x.x       |
+| 1.21.1            | 1.8.x+            | 1.0.x+      |
 
 ## License
 
